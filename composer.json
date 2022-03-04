@@ -1,0 +1,19 @@
+{
+    "name": "strdh/composer-lib",
+    "description": "learning about composer-lib",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Satrio",
+            "email": "strdh33@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Strdh\\" : "src"
+        }
+    },
+    "require": {
+        "php" : ">=7.3"
+    }
+}
