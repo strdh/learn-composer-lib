@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Strdh\\lib" : "src"
+            "Strdh\\lib\\" : "src"
         }
     },
     "require": {
