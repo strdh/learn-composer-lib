@@ -1,5 +1,6 @@
 <?php
 
+namespace Strdh\lib;
 class Person
 {
     private $name, $age;
